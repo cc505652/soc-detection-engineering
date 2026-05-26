@@ -1,4 +1,6 @@
 # Module 2 — Threat Analysis, Attack Frameworks & IOC Intelligence
+
+## Cisco Cybersecurity Defense Analyst (Splunk)
 ---
 
 This module marks the transition from:
