@@ -40,3 +40,60 @@ soc-detection-engineering/
 │   └── alert-triage.md
 │
 └── README.md
+````
+
+New folders and domains will be added progressively as my learning expands into:
+
+* Threat Hunting
+* Detection Engineering
+* Incident Response
+* Cloud Security
+* MITRE ATT&CK Mapping
+* Sigma Rules
+* Security Automation
+
+---
+
+# Learning Objectives
+
+* Develop strong SOC analyst foundations
+* Understand enterprise SIEM workflows
+* Build detection engineering skills
+* Learn alert investigation and incident triage
+* Improve threat hunting methodology
+* Strengthen operational security thinking
+* Document practical cybersecurity workflows
+
+---
+
+# Tools & Technologies
+
+* Splunk
+* Wireshark
+* Nmap
+* Burp Suite
+* MITRE ATT&CK
+* Python
+* Cisco Networking Academy Labs
+
+---
+
+# Ongoing Progress
+
+This repository is continuously updated as I progress through:
+
+* SOC learning paths
+* Splunk workflows
+* Detection engineering concepts
+* Security simulations
+* Threat intelligence research
+* Cybersecurity projects
+
+---
+
+# Disclaimer
+
+This repository is intended strictly for educational, defensive, and research purposes. All notes, workflows, and concepts are documented as part of cybersecurity learning and professional development.
+
+```
+
